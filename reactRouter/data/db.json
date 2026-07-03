@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "aas39jfMN_kQ",
+      "name": "Boné",
+      "price": 100
+    },
+    {
+      "id": "aas33339jfMN_vQ",
+      "name": "Calça",
+      "price": 34
+    },
+    {
+      "id": "aas22239jfMN_lQ",
+      "name": "Meia",
+      "price": 19
+    }
+  ]
+}
